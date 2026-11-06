@@ -14,6 +14,7 @@ import tempfile
 import unittest
 from collections import Counter
 from pathlib import Path
+from unittest import mock
 
 HERE = Path(__file__).resolve().parent
 UPSTREAM_PATH = HERE.parent / "HotelsData_toAzureBlobs.json"
@@ -182,6 +183,36 @@ class GeneratedFileTest(unittest.TestCase):
                     self.assertEqual(room["Type_ja"], "スイート")
                     self.assertTrue(room["Description_ja"].startswith("スイート、"))
 
+    def test_amenities_suffix_is_translated_as_setsubi(self):
+        """客室の説明の「(Amenities)」は「（設備）」。「アメニティ」とは訳さない（客室の設備の意味）。"""
+        count = 0
+        for hotel in self.output:
+            for room in hotel["Rooms"]:
+                if room["Description"].endswith("(Amenities)"):
+                    count += 1
+                    with self.subTest(hotel=hotel["HotelId"], room=room["Description"]):
+                        self.assertTrue(room["Description_ja"].endswith("（設備）"), room["Description_ja"])
+        self.assertGreater(count, 0)
+        self.assertNotIn("（アメニティ）", OUTPUT_PATH.read_text(encoding="utf-8"))
+        self.assertNotIn("（アメニティ）", TRANSLATIONS_PATH.read_text(encoding="utf-8"))
+
+    def test_mile_long_beach_is_not_read_as_a_mile_long_lake(self):
+        """元の英文は「mile-long sandy beaches of the lake」。湖の長さではなく、砂浜の長さ。"""
+        description = self.output_by_id["45"]["Description_ja"]
+        self.assertIn("mile-long sandy beaches of the lake", self.upstream_by_id["45"]["Description"])
+        self.assertNotIn("湖の長さ", description)
+        self.assertIn("長さ1マイルの砂浜", description)
+        self.assertIn("湖畔", description)
+
+    def test_generated_file_uses_lf_only(self):
+        self.assertNotIn(b"\r", OUTPUT_PATH.read_bytes())
+        self.assertNotIn(b"\r", TRANSLATIONS_PATH.read_bytes())
+
+    def test_gitattributes_keeps_json_lf(self):
+        """Windows の Git が、JSON の改行を CRLF にしない（生成物の比較が崩れる）。"""
+        lines = (HERE / ".gitattributes").read_text(encoding="utf-8").splitlines()
+        self.assertIn("*.json text eol=lf", [line.strip() for line in lines])
+
     def test_output_is_up_to_date(self):
         """生成物が、いまの translations.json と build.py から作り直したものと同じ。"""
         build = load_build_module()
@@ -207,7 +238,9 @@ class BuildFunctionTest(unittest.TestCase):
         del broken["hotels"]["1"]
         with self.assertRaises(self.build.MissingTranslation) as ctx:
             self.build.build(self.upstream, broken)
-        self.assertIn("1", str(ctx.exception))
+        # HotelId の 1 を、他の数字（客室の数、10 など）と取り違えない
+        self.assertIn("'1'", str(ctx.exception))
+        self.assertIn("ホテルの訳(hotels)", str(ctx.exception))
 
     def test_missing_room_description_translation_raises(self):
         broken = json.loads(json.dumps(self.translations))
@@ -239,6 +272,24 @@ class BuildFunctionTest(unittest.TestCase):
         extra_room["room_descriptions"]["Suite, 3 Cots (View)"] = "スイート"
         with self.assertRaises(self.build.UnusedTranslation):
             self.build.build(self.upstream, extra_room)
+
+    def test_main_writes_with_lf_newlines(self):
+        """どの OS でも改行は LF。open に newline="\\n" を渡して書く（Windows で CRLF にならない）。"""
+        real_open = open
+        calls = []
+
+        def spy(file, mode="r", *args, **kwargs):
+            calls.append((Path(file).name, mode, kwargs.get("newline")))
+            return real_open(file, mode, *args, **kwargs)
+
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp) / "out.json"
+            with mock.patch.object(self.build, "open", create=True, side_effect=spy):
+                with contextlib.redirect_stdout(io.StringIO()):
+                    self.assertEqual(self.build.main(["--output", str(out)]), 0)
+            self.assertNotIn(b"\r", out.read_bytes())
+        writes = [call for call in calls if call[0] == "out.json"]
+        self.assertEqual(writes, [("out.json", "w", "\n")])
 
     def test_main_writes_output_file(self):
         with tempfile.TemporaryDirectory() as tmp:

@@ -85,7 +85,7 @@
       {
         "Description": "Standard Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
-        "Description_ja": "スタンダードルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、キングベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 110.99,
@@ -273,7 +273,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 244.99,
@@ -287,7 +287,7 @@
       {
         "Description": "Budget Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 grand lit (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 76.99,
@@ -331,7 +331,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 150.99,
@@ -361,7 +361,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 256.99,
@@ -435,7 +435,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 129.99,
@@ -813,7 +813,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 131.99,
@@ -870,7 +870,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 231.99,
@@ -900,7 +900,7 @@
       {
         "Description": "Budget Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 grand lit (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 66.99,
@@ -1087,7 +1087,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 145.99,
@@ -1133,7 +1133,7 @@
       {
         "Description": "Standard Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
-        "Description_ja": "スタンダードルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、キングベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 103.99,
@@ -1147,7 +1147,7 @@
       {
         "Description": "Suite, 2 Double Beds (Amenities)",
         "Description_fr": "Suite, 2 lits doubles (Services)",
-        "Description_ja": "スイート、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スイート、ダブルベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 257.99,
@@ -1236,7 +1236,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 262.99,
@@ -1264,7 +1264,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 256.99,
@@ -1393,7 +1393,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 138.99,
@@ -1451,7 +1451,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 257.99,
@@ -1465,7 +1465,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 151.99,
@@ -1480,7 +1480,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 149.99,
@@ -1495,7 +1495,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 258.99,
@@ -1538,7 +1538,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 161.99,
@@ -1582,7 +1582,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 151.99,
@@ -1728,7 +1728,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 135.99,
@@ -1848,7 +1848,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 252.99,
@@ -1968,7 +1968,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 254.99,
@@ -1982,7 +1982,7 @@
       {
         "Description": "Standard Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
-        "Description_ja": "スタンダードルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、キングベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 124.99,
@@ -2350,7 +2350,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 62.99,
@@ -2365,7 +2365,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 262.99,
@@ -2395,7 +2395,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 147.99,
@@ -2438,7 +2438,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 72.99,
@@ -2466,7 +2466,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 84.99,
@@ -2498,7 +2498,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 97.99,
@@ -2528,7 +2528,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 167.99,
@@ -2660,7 +2660,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 142.99,
@@ -2704,7 +2704,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 163.99,
@@ -2894,7 +2894,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 134.99,
@@ -2940,7 +2940,7 @@
       {
         "Description": "Suite, 2 Double Beds (Amenities)",
         "Description_fr": "Suite, 2 lits doubles (Services)",
-        "Description_ja": "スイート、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スイート、ダブルベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 241.99,
@@ -2969,7 +2969,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 85.99,
@@ -2999,7 +2999,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 65.99,
@@ -3014,7 +3014,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 117.99,
@@ -3331,7 +3331,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 250.99,
@@ -3360,7 +3360,7 @@
       {
         "Description": "Budget Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 grand lit (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 81.99,
@@ -3404,7 +3404,7 @@
       {
         "Description": "Standard Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
-        "Description_ja": "スタンダードルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、キングベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 131.99,
@@ -3540,7 +3540,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 102.99,
@@ -3554,7 +3554,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 88.99,
@@ -3609,7 +3609,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 60.99,
@@ -3625,7 +3625,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 139.99,
@@ -3725,7 +3725,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 114.99,
@@ -3769,7 +3769,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 158.99,
@@ -3813,7 +3813,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 100.99,
@@ -3928,7 +3928,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 147.99,
@@ -3958,7 +3958,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 107.99,
@@ -4004,7 +4004,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 231.99,
@@ -4150,7 +4150,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 166.99,
@@ -4425,7 +4425,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 129.99,
@@ -4453,7 +4453,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 117.99,
@@ -4623,7 +4623,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 150.99,
@@ -4698,7 +4698,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 157.99,
@@ -4768,7 +4768,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 85.99,
@@ -4948,7 +4948,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 62.99,
@@ -5077,7 +5077,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 269.99,
@@ -5107,7 +5107,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 123.99,
@@ -5167,7 +5167,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 162.99,
@@ -5227,7 +5227,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 137.99,
@@ -5455,7 +5455,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 59.99,
@@ -5620,7 +5620,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 249.99,
@@ -5797,7 +5797,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 71.99,
@@ -5813,7 +5813,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 267.99,
@@ -5828,7 +5828,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 231.99,
@@ -5883,7 +5883,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 101.99,
@@ -5970,7 +5970,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 127.99,
@@ -5985,7 +5985,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 66.99,
@@ -6001,7 +6001,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 115.99,
@@ -6031,7 +6031,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 264.99,
@@ -6076,7 +6076,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 130.99,
@@ -6151,7 +6151,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 235.99,
@@ -6249,7 +6249,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 239.99,
@@ -6481,7 +6481,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 66.99,
@@ -6509,7 +6509,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 133.99,
@@ -6595,7 +6595,7 @@
       {
         "Description": "Budget Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 grand lit (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 72.99,
@@ -6677,7 +6677,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 115.99,
@@ -6866,7 +6866,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 162.99,
@@ -6880,7 +6880,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 68.99,
@@ -6895,7 +6895,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 73.99,
@@ -6998,7 +6998,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 167.99,
@@ -7043,7 +7043,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 126.99,
@@ -7129,7 +7129,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 266.99,
@@ -7222,7 +7222,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 254.99,
@@ -7268,7 +7268,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 134.99,
@@ -7311,7 +7311,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 92.99,
@@ -7326,7 +7326,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 141.99,
@@ -7342,7 +7342,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 115.99,
@@ -7442,7 +7442,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 75.99,
@@ -7561,7 +7561,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 157.99,
@@ -7675,7 +7675,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 148.99,
@@ -7705,7 +7705,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 156.99,
@@ -7795,7 +7795,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 130.99,
@@ -7809,7 +7809,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 100.99,
@@ -7894,7 +7894,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 78.99,
@@ -7967,7 +7967,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 240.99,
@@ -7998,7 +7998,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 148.99,
@@ -8029,7 +8029,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 66.99,
@@ -8123,7 +8123,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 269.99,
@@ -8170,7 +8170,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 146.99,
@@ -8269,7 +8269,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 244.99,
@@ -8342,7 +8342,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 71.99,
@@ -8371,7 +8371,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 135.99,
@@ -8401,7 +8401,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 125.99,
@@ -8499,7 +8499,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 145.99,
@@ -8558,7 +8558,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 147.99,
@@ -8620,7 +8620,7 @@
       {
         "Description": "Suite, 2 Double Beds (Amenities)",
         "Description_fr": "Suite, 2 lits doubles (Services)",
-        "Description_ja": "スイート、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スイート、ダブルベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 257.99,
@@ -8696,7 +8696,7 @@
       {
         "Description": "Suite, 1 King Bed (Amenities)",
         "Description_fr": "Suite, 1 très grand lit (Services)",
-        "Description_ja": "スイート、キングベッド1台（アメニティ）",
+        "Description_ja": "スイート、キングベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 240.99,
@@ -8854,7 +8854,7 @@
       {
         "Description": "Suite, 2 Double Beds (Amenities)",
         "Description_fr": "Suite, 2 lits doubles (Services)",
-        "Description_ja": "スイート、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スイート、ダブルベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 250.99,
@@ -8944,7 +8944,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 100.99,
@@ -9059,7 +9059,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 93.99,
@@ -9074,7 +9074,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 135.99,
@@ -9306,7 +9306,7 @@
       {
         "Description": "Standard Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
-        "Description_ja": "スタンダードルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、キングベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 117.99,
@@ -9350,7 +9350,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 254.99,
@@ -9378,7 +9378,7 @@
       {
         "Description": "Standard Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
-        "Description_ja": "スタンダードルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、キングベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 122.99,
@@ -9407,7 +9407,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 249.99,
@@ -9524,7 +9524,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 157.99,
@@ -9660,7 +9660,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 131.99,
@@ -9705,7 +9705,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 72.99,
@@ -9720,7 +9720,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 132.99,
@@ -9953,7 +9953,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 105.99,
@@ -10264,7 +10264,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 76.99,
@@ -10313,7 +10313,7 @@
     "HotelName_ja": "ハッピー・レイク・リゾート＆レストラン",
     "Description": "The largest year-round resort in the area offering more of everything for your vacation – at the best value! What can you enjoy while at the resort, aside from the mile-long sandy beaches of the lake? Check out our activities sure to excite both young and young-at-heart guests. We have it all, including being named “Property of the Year” and a “Top Ten Resort” by top publications.",
     "Description_fr": "La plus grande station de toute l'année dans la région offrant plus de tout pour vos vacances-au meilleur rapport qualité-prix! Que pouvez-vous profiter de la station, en dehors des kilomètres de longues plages de sable du lac? Découvrez nos activités pour vous exciter à la fois les jeunes et les jeunes-à-coeur invités. Nous avons tout, y compris d'être nommé \"propriété de l'année\" et un \"Top Ten Resort\" par Top publications.",
-    "Description_ja": "一年中楽しめるリゾートとしては、この地域で最大です。休暇のあらゆる楽しみを、最高のお値打ちで提供しています。リゾートでは、湖の長さ1マイルの砂浜のほかに、何を楽しめるでしょうか。若い方にも、気持ちの若い方にも、きっとわくわくしていただけるアクティビティがあります。一流の出版物から「プロパティ・オブ・ザ・イヤー」と「トップ10リゾート」に選ばれたことなど、すべてがそろっています。",
+    "Description_ja": "一年中楽しめるリゾートとしては、この地域で最大です。休暇のあらゆる楽しみを、最高のお値打ちで提供しています。リゾートでは、湖畔にある長さ1マイルの砂浜のほかに、何を楽しめるでしょうか。若い方にも、気持ちの若い方にも、きっとわくわくしていただけるアクティビティがあります。一流の出版物から「プロパティ・オブ・ザ・イヤー」と「トップ10リゾート」に選ばれたことなど、すべてがそろっています。",
     "Category": "Resort and Spa",
     "Category_ja": "リゾート＆スパ",
     "Tags": [
@@ -10348,7 +10348,7 @@
       {
         "Description": "Budget Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
-        "Description_ja": "バジェットルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、ダブルベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 70.99,
@@ -10453,7 +10453,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 145.99,
@@ -10625,7 +10625,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 256.99,
@@ -10654,7 +10654,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 152.99,
@@ -10668,7 +10668,7 @@
       {
         "Description": "Budget Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Économique, 2 grands lits (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド2台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 80.99,
@@ -10728,7 +10728,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 245.99,
@@ -10933,7 +10933,7 @@
       {
         "Description": "Budget Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
-        "Description_ja": "バジェットルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、キングベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 84.99,
@@ -10990,7 +10990,7 @@
       {
         "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 129.99,
@@ -11074,7 +11074,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 120.99,
@@ -11234,7 +11234,7 @@
       {
         "Description": "Standard Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
-        "Description_ja": "スタンダードルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、キングベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 114.99,
@@ -11370,7 +11370,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 260.99,
@@ -11503,7 +11503,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 261.99,
@@ -11618,7 +11618,7 @@
       {
         "Description": "Standard Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 grands lits (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 101.99,
@@ -11693,7 +11693,7 @@
       {
         "Description": "Suite, 2 Double Beds (Amenities)",
         "Description_fr": "Suite, 2 lits doubles (Services)",
-        "Description_ja": "スイート、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スイート、ダブルベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 242.99,
@@ -11708,7 +11708,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 165.99,
@@ -11738,7 +11738,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 137.99,
@@ -11808,7 +11808,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 254.99,
@@ -11852,7 +11852,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 130.99,
@@ -11867,7 +11867,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 254.99,
@@ -11912,7 +11912,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 135.99,
@@ -12021,7 +12021,7 @@
       {
         "Description": "Suite, 2 Double Beds (Amenities)",
         "Description_fr": "Suite, 2 lits doubles (Services)",
-        "Description_ja": "スイート、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スイート、ダブルベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 229.99,
@@ -12050,7 +12050,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 268.99,
@@ -12064,7 +12064,7 @@
       {
         "Description": "Budget Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 grand lit (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 82.99,
@@ -12192,7 +12192,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 168.99,
@@ -12294,7 +12294,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 107.99,
@@ -12310,7 +12310,7 @@
       {
         "Description": "Suite, 1 Queen Bed (Amenities)",
         "Description_fr": "Suite, 1 grand lit (Services)",
-        "Description_ja": "スイート、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド1台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 247.99,
@@ -12364,7 +12364,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 161.99,
@@ -12467,7 +12467,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 159.99,
@@ -12583,7 +12583,7 @@
       {
         "Description": "Deluxe Room, 1 King Bed (Amenities)",
         "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
-        "Description_ja": "デラックスルーム、キングベッド1台（アメニティ）",
+        "Description_ja": "デラックスルーム、キングベッド1台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 143.99,
@@ -12599,7 +12599,7 @@
       {
         "Description": "Standard Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Standard, 2 lits doubles (Services)",
-        "Description_ja": "スタンダードルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スタンダードルーム、ダブルベッド2台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 123.99,
@@ -12728,7 +12728,7 @@
       {
         "Description": "Standard Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Standard, 1 grand lit (Services)",
-        "Description_ja": "スタンダードルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "スタンダードルーム、クイーンベッド1台（設備）",
         "Type": "Standard Room",
         "Type_ja": "スタンダードルーム",
         "BaseRate": 114.99,
@@ -12758,7 +12758,7 @@
       {
         "Description": "Suite, 2 Double Beds (Amenities)",
         "Description_fr": "Suite, 2 lits doubles (Services)",
-        "Description_ja": "スイート、ダブルベッド2台（アメニティ）",
+        "Description_ja": "スイート、ダブルベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 240.99,
@@ -12774,7 +12774,7 @@
       {
         "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
-        "Description_ja": "デラックスルーム、クイーンベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、クイーンベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 154.99,
@@ -12788,7 +12788,7 @@
       {
         "Description": "Budget Room, 1 Queen Bed (Amenities)",
         "Description_fr": "Chambre Économique, 1 grand lit (Services)",
-        "Description_ja": "バジェットルーム、クイーンベッド1台（アメニティ）",
+        "Description_ja": "バジェットルーム、クイーンベッド1台（設備）",
         "Type": "Budget Room",
         "Type_ja": "バジェットルーム",
         "BaseRate": 80.99,
@@ -13061,7 +13061,7 @@
       {
         "Description": "Suite, 2 Queen Beds (Amenities)",
         "Description_fr": "Suite, 2 grands lits (Services)",
-        "Description_ja": "スイート、クイーンベッド2台（アメニティ）",
+        "Description_ja": "スイート、クイーンベッド2台（設備）",
         "Type": "Suite",
         "Type_ja": "スイート",
         "BaseRate": 244.99,
@@ -13091,7 +13091,7 @@
       {
         "Description": "Deluxe Room, 2 Double Beds (Amenities)",
         "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
-        "Description_ja": "デラックスルーム、ダブルベッド2台（アメニティ）",
+        "Description_ja": "デラックスルーム、ダブルベッド2台（設備）",
         "Type": "Deluxe Room",
         "Type_ja": "デラックスルーム",
         "BaseRate": 158.99,

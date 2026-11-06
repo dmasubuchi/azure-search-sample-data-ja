@@ -127,7 +127,7 @@ def main(argv=None):
         print(f"エラー: {error}", file=sys.stderr)
         return 1
 
-    with open(args.output, "w", encoding="utf-8") as f:
+    with open(args.output, "w", encoding="utf-8", newline="\n") as f:  # Windows でも改行は LF
         json.dump(output, f, ensure_ascii=False, indent=2)
         f.write("\n")
     rooms = sum(len(h["Rooms"]) for h in output)
